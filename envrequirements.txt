@@ -1,0 +1,8 @@
+django
+django-heroku
+django-cleanup
+ip2geotools
+gunicorn
+pillow
+ip2geotools
+django-next-prev
